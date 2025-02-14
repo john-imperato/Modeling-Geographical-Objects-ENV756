@@ -1,3 +1,18 @@
+#The Prioritizer is a generalized geospatial software tool, in the form of a python script, optimized to identify high-priority
+# ecological restoration sites within any user-defined area, provided sufficient data is available. It prioritizes sites based on:
+#
+# 1. Proximity to sources of ecological degradation (e.g., trails, campgrounds, roads, toxic waste dumps), which influence the
+# level of ecological impact and restoration urgency.
+# 2. The number of species utilizing a given area, reflecting its ecological significance and conservation value.
+#
+# More generally, however, this tool can be viewed as a flexible framework for prioritizing spatial areas based on proximity to
+# defined objects of interest and overlap with valued features, making it adaptable for a wide range of applications. For exam ple,
+# instead of being used to identify high-priority ecological restoration sites, The Prioritizer could be used to identify sites with high
+# exposure to natural disaster risk. In this example, valued features could be polygons representing hazard zones (floodplains,
+# landslide-susceptible areas, and wildfire-prone areas) and defined objects could be points or polygons representing dense human
+#population centers or critical infrastructure.
+
+
 ##########################################################################################
 # Begin user-defined inputs
 ##########################################################################################
