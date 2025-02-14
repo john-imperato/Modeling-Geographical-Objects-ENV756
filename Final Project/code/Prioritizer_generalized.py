@@ -12,6 +12,8 @@
 # landslide-susceptible areas, and wildfire-prone areas) and defined objects could be points or polygons representing dense human
 #population centers or critical infrastructure.
 
+# For a detailed walkthrough of the tool, see https://github.com/john-imperato/Modeling-Geographical-Objects-ENV756/blob/main/Final%20Project/doc/Imperato13.pdf
+
 
 ##########################################################################################
 # Begin user-defined inputs
