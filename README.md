@@ -1,1 +1,2 @@
-Repository for Python scripts automating geospatial calculations in ArcGIS Pro. This work is for the YSE course Modeling Geographical Objects, ENV 756. 
+This is a repository for Python scripts written for the YSE course Modeling Geographical Objects, ENV 756.
+The scripts automate geoprocessing tasks in ArcGIS Pro for weekly assignments and a final project. 
